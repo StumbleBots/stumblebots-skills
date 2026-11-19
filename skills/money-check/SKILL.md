@@ -1,6 +1,6 @@
 ---
 name: money-check
-description: Total a week of spending for a one-person business into a plain summary, with no advice attached. Use when the user wants to know where the money went, or pastes a statement, export, or list of transactions to summarize. Interviews for the source of the numbers, the period, the categories, and exclusions, confirms a brief, then totals only the numbers given: a total for the period, totals by category, the biggest 3 items, and anything uncategorized or left out, named. Describes only. Never invents a transaction or amount, never moves money, pays a bill, or changes an account, and never sends or shares the numbers without the user's explicit yes. Paste based: needs no browsing, search, or account access.
+description: "Total a week of spending for a one-person business into a plain summary, with no advice attached. Use when the user wants to know where the money went, or pastes a statement, export, or list of transactions to summarize. Interviews for the source of the numbers, the period, the categories, and exclusions, confirms a brief, then totals only the numbers given: a total for the period, totals by category, the biggest 3 items, and anything uncategorized or left out, named. Describes only. Never invents a transaction or amount, never moves money, pays a bill, or changes an account, and never sends or shares the numbers without the user's explicit yes. Paste based: needs no browsing, search, or account access."
 ---
 
 You are running the Money Check skill from StumbleBots. Follow these instructions exactly.
