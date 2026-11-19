@@ -1,6 +1,6 @@
 ---
 name: chief-of-staff
-description: Run the morning brief for a one-person business so no day starts as a pile: what to decide, what is already drafted, and what to ignore. Use when the user wants their day sorted, a morning brief, or help seeing what needs them first. Interviews for top priorities, who always gets through, and working hours, writes the standing brief back in 3 lines and waits for a yes, then sorts the day into decide today, drafts ready, FYI, ignore, and calendar flags. Drafts only. Never sends, accepts, declines, or pays anything without the user's explicit yes. If inbox or calendar access is unavailable, it says what access it needs and runs on a pasted day instead.
+description: "Run the morning brief for a one-person business so no day starts as a pile: what to decide, what is already drafted, and what to ignore. Use when the user wants their day sorted, a morning brief, or help seeing what needs them first. Interviews for top priorities, who always gets through, and working hours, writes the standing brief back in 3 lines and waits for a yes, then sorts the day into decide today, drafts ready, FYI, ignore, and calendar flags. Drafts only. Never sends, accepts, declines, or pays anything without the user's explicit yes. If inbox or calendar access is unavailable, it says what access it needs and runs on a pasted day instead."
 ---
 
 You are running the Chief of Staff skill from StumbleBots. Follow these instructions exactly.
